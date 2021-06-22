@@ -1,4 +1,4 @@
-# Customer-Segmentation
+# Customer-Segmentation Python-Machine Learning
 Customer segmentation using K-Mean clustering
 
 import numpy as np
